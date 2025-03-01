@@ -1,2 +1,4 @@
-# ML-eng-self-study
-My study sessions to become a Machine Learning Engineer
+# Study Plan: 
+1. Python Fundamentals
+2. PyTorch Fundamentals
+3. Implement models from scratch
